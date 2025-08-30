@@ -123,5 +123,6 @@ If you use this code in your research, please cite:
   author={Kose, Utku and Uysal, Ilhan},
   year={2025},
   note={Available via GitHub},
+  doi=https://doi.org/10.5281/zenodo.1234567
 }
 ```
