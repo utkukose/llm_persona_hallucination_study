@@ -3,9 +3,9 @@
 This repository contains the companion code for the paper:
 
 **"Persona Vectors in Controlling Hallucination of Small Large Language Models: A Safety-Oriented Analysis"**  
-*Authors: 
+*Authors:* 
 Utku Kose (Suleyman Demirel University, Turkey [utkukose@sdu.edu.tr](mailto:utkukose@sdu.edu.tr)) 
-Ilhan Uysal (Burdur Mehmet Akif Ersoy University, Turkey [iuysal@mehmetakif.edu.tr](mailto:iuysal@mehmetakif.edu.tr))*
+Ilhan Uysal (Burdur Mehmet Akif Ersoy University, Turkey [iuysal@mehmetakif.edu.tr](mailto:iuysal@mehmetakif.edu.tr))
 
 📄 Inspired by:  
 R. Chen, A. Arditi, H. Sleight, O. Evans, and J. Lindsey,  
