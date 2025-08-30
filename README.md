@@ -40,11 +40,11 @@ Results are exported as `.csv`, `.xlsx`, `.tex`, and plots inside the `outputs/`
 
 ```
 .
-├── PersonaHallucinationStudy.ipynb   # Main Jupyter notebook (evaluation + analysis)
-├── requirements.txt                  # Python dependencies
-├── .gitignore                        # Ignore cache, outputs, temp files
-├── README.md                         # Documentation
-└── outputs/                          # Auto-generated results (ignored by git)
+├── llm_persona_code_4-model_compare_FINAL.ipynb   # Main Jupyter notebook (evaluation + analysis)
+├── requirements.txt                               # Python dependencies
+├── .gitignore                                     # Ignore cache, outputs, temp files
+├── README.md                                      # ReadMe documentation
+└── outputs/                                       # Results auto-generated at run-time (ignored by git)
 ```
 
 ---
