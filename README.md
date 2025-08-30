@@ -6,6 +6,7 @@ This repository contains the companion code for the paper:
 *Authors:
 Utku Kose (Suleyman Demirel University, Turkey [utkukose@sdu.edu.tr](mailto:utkukose@sdu.edu.tr))  
 Ilhan Uysal (Burdur Mehmet Akif Ersoy University, Turkey [iuysal@mehmetakif.edu.tr](mailto:iuysal@mehmetakif.edu.tr))*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
 
 📄 Inspired by:  
 R. Chen, A. Arditi, H. Sleight, O. Evans, and J. Lindsey,  
