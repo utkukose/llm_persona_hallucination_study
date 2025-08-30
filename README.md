@@ -47,7 +47,8 @@ Results are exported as `.csv`, `.xlsx`, `.tex`, and plots inside the `outputs/`
 ├── requirements.txt                               # Python dependencies
 ├── .gitignore                                     # Ignore cache, outputs, temp files
 ├── README.md                                      # ReadMe documentation
-└── outputs/                                       # Results auto-generated at run-time (ignored by git)
+├── outputs/                                       # Results auto-generated at run-time (ignored by git)
+└── results/                                       # Include Excel files for example of past results (ignored by git)
 ```
 
 ---
