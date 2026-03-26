@@ -8,12 +8,16 @@ This repository contains the companion code for the paper:
 Utku Kose (Suleyman Demirel University, Turkey [utkukose@sdu.edu.tr](mailto:utkukose@sdu.edu.tr))  
 Ilhan Uysal (Burdur Mehmet Akif Ersoy University, Turkey [iuysal@mehmetakif.edu.tr](mailto:iuysal@mehmetakif.edu.tr))*
 
+📄 Published as:
+U. Kose and I. Uysal, "Persona Vectors in Controlling Hallucination of Small Large Language Models: A Safety-Oriented Analysis," 2025 Cyber Awareness and Research Symposium (CARS), Grand Forks, ND, USA, 2025.
+[https://doi.org/10.1109/CARS67163.2025.11337402](https://doi.org/10.1109/CARS67163.2025.11337402)
+
 📄 Inspired by:  
 R. Chen, A. Arditi, H. Sleight, O. Evans, and J. Lindsey,  
 *Persona Vectors: Monitoring and Controlling Character Traits in Language Models*.  
 arXiv preprint arXiv:2507.21509, 2025.  
 [https://doi.org/10.48550/arXiv.2507.21509](https://doi.org/10.48550/arXiv.2507.21509)
-
+[https://ieeexplore.ieee.org/document/11337402]
 ---
 
 ## 📌 Overview
